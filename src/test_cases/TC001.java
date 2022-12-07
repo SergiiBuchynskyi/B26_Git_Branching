@@ -2,8 +2,12 @@ package test_cases;
 
 public class TC001 {
 
-    //testing some thing
+    //testing something
 
     //more testing
+
+    //added negative testing for tc001
+    //added positive testing for tc001
+
 
 }
